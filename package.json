@@ -1,0 +1,23 @@
+{
+  "name": "arvind-visual-resume-ambassador",
+  "version": "1.0.0",
+  "description": "Visual Resume tailored for AI Application Engineer with an interactive Virtual Ambassador",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "visual-resume",
+    "ai-ambassador",
+    "portfolio",
+    "full-stack-ai",
+    "openai",
+    "gemini"
+  ],
+  "author": "Jana Arvind Surya <arvindjana05@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
